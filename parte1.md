@@ -1,5 +1,7 @@
 # Parte 1 – Personalizando acessos com views
 
+## CODE 1
+
 1. Criar uma nova tabela chamada "users" para armazenar as informações dos usuários. Certifique-se de incluir os campos como "id", "username" e "password".
 
 ```sql
@@ -72,14 +74,3 @@ LEFT JOIN (
 ) AS d ON e.id = d.employee_id;
 ```
 
-
-```sql
-```
-
-
-```sql
-```
-
-
-```sql
-```
